@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Guild Recruiter
+## Notes: Scans /who for guildless players and whispers them a recruitment message (throttled). Built for WoW: Forever.
+## Author: You
+## Version: 1.4.4
+## SavedVariables: GuildRecruiterDB
+
+GuildRecruiter.lua
